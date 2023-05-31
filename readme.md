@@ -10,4 +10,4 @@ Simple implementation of the Caesar Cipher Encrypting and Decrypting app.
 2. Add the folder to workplace area in your VS Code and open terminal OR navigate to the created folder using terminal
 3. Download the project .zip file OR Enter to the terminal:
    `git clone https://github.com/ZhenyaChan/Caesar-Cipher.git`
-4. Run the code by entering `python -u "~/Hangman/main.py`
+4. Run the code by entering `python -u "~/Caesar-Cipher/main.py`
